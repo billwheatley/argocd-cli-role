@@ -3,6 +3,8 @@ Role Name
 
 Role to install the Argo CD CLI client and setup bash completion.
 
+This is based on official Argo CD Documentation: <https://argoproj.github.io/argo-cd/cli_installation/>
+
 This is designed as part of a desktop provisioning playbooks found here <https://github.com/billwheatley/provision-desktop>
 
 Requirements
