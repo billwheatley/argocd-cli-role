@@ -1,4 +1,4 @@
-Role Name
+ArgoCD CLI Ansible Role
 =========
 
 Role to install the Argo CD CLI client and setup bash completion.
