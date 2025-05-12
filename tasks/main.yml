@@ -15,7 +15,7 @@
     mode: '0555'
 
 - name: Setup bash Completion for argocd
-  shell: argocd completion bash > /etc/bash_completion.d/argocd_completion
+  shell: /usr/local/bin/argocd completion bash > /etc/bash_completion.d/argocd_completion
 
 - name: Ensure bash Completion Script Has Proper File Permissions
   file:
